@@ -99,6 +99,8 @@ codepen.io
 
 rocketseat.com.br
 
+[vscode](https://code.visualstudio.com/)
+
 Chrome browser and DevTools
 
 ### Abrindo o *console* (no codepen.io)
