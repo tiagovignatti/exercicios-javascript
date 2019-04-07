@@ -91,7 +91,6 @@ Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qual
 Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
 
 
-<a name="ferramentas"/>
 ## Ferramentas
 
 ### Para iniciar na programação
