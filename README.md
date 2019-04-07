@@ -40,7 +40,6 @@ A média entre 'n' números, é a some dos 'n' números divididos por 'n'
 
 Faça um programa que leia do usuário uma temperatura em Fahrenheit, converta-a para graus Celsius e escreva o novo valor na tela. A fórmula de conversão de Fahrenheit (F) para Celsius é C = ( ( F - 32 ) * 5 ) / 9. Exemplo: 100 Fahrenheit = 37,77 Celsius.
 
-<a name="cond"/>
 ## 2. Condicionais (_if_, _else_)
 
 ### Exercício 2.1 
@@ -58,7 +57,6 @@ function personagemMorreu (dano, saude) {
   //
 }
 ```
-
 
 ### Exercício 2.3
 
@@ -105,8 +103,6 @@ Chrome browser and DevTools
 ### Abrindo o *console* (no codepen.io)
 
 (escrever algo sobre console)
-
-
 
 
 ## Referências
