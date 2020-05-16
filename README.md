@@ -32,6 +32,23 @@ A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
       * [Referências](#referências)
 
 
+# Antes de qualquer coisa
+
+Antes de iniciar, precisamos de boas ferramentas para iniciar nossos trabalhos. O "feijão com o arroz" pra mim são as seguintes ferramentas:
+
+ - DevTools, que está dentro do próprio navegador Chrome (apertando a tecla 'F12', na tela do navegador)
+
+ - codepen.io, que é muito bacana também mas que precisa estar online e conectado a Internet pra usar.
+
+
+## Abrindo o DevTools
+
+(preciso escrever algo sobre console)
+
+## Abrindo o *console* no codepen.io
+
+(preciso escrever algo sobre console)
+
 # Exercícios
 
 ## Variáveis e Funções
@@ -124,25 +141,22 @@ Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qual
 ### Exercício 5
 Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
 
+# Respostas
 
-## Ferramentas
+Por ora, não coloquei nenhuma resposta dos exercícios aqui. Mas ficaria muito grato de receber as respostas (enviadas por email mesmo, ou talvez abrindo uma "issue" no GitHub) e começar a organizar elas por aqui :)
 
-### Para iniciar na programação
-  
-codepen.io
 
+# Outras ferramentas para iniciar na programação
+
+glitch.com
+ 
 rocketseat.com.br
 
 [vscode](https://code.visualstudio.com/)
 
 Chrome browser and DevTools
 
-### Abrindo o *console* (no codepen.io)
-
-(escrever algo sobre console)
-
-
-## Referências
+# Referências
 
 https://github.com/progweb2sem2014/repodidatico/wiki/Exerc%C3%ADcios-de-Javascript-(05-09)
 
