@@ -8,6 +8,9 @@ A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
 
    * [Exercícios em Javascript (para iniciantes em programação)](#exercícios-em-javascript-para-iniciantes-em-programação)
    * [Índice](#índice)
+   * [Antes de qualquer coisa](#antes-de-qualquer-coisa)
+      * [Abrindo o DevTools](#abrindo-o-devtools)
+      * [Abrindo o <em>console</em> no codepen.io](#abrindo-o-console-no-codepenio)
    * [Exercícios](#exercícios)
       * [Variáveis e Funções](#variáveis-e-funções)
          * [Exercício 1.1](#exercício-11)
@@ -26,10 +29,9 @@ A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
          * [Exercício 4.1](#exercício-41)
       * [5. Vetores (array)](#5-vetores-array)
          * [Exercício 5](#exercício-5)
-      * [Ferramentas](#ferramentas)
-         * [Para iniciar na programação](#para-iniciar-na-programação)
-         * [Abrindo o <em>console</em> (no codepen.io)](#abrindo-o-console-no-codepenio)
-      * [Referências](#referências)
+   * [Respostas](#respostas)
+   * [Outras ferramentas para iniciar na programação](#outras-ferramentas-para-iniciar-na-programação)
+   * [Referências](#referências)
 
 
 # Antes de qualquer coisa
