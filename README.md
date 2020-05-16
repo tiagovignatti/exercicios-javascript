@@ -6,7 +6,9 @@ A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
 
 # Índice
 
-   * [Exercícios)](#exercícios)
+   * [Exercícios em Javascript (para iniciantes em programação)](#exercícios-em-javascript-para-iniciantes-em-programação)
+   * [Índice](#índice)
+   * [Exercícios](#exercícios)
       * [Variáveis e Funções](#variáveis-e-funções)
          * [Exercício 1.1](#exercício-11)
          * [Exercício 1.2](#exercício-12)
@@ -28,6 +30,7 @@ A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
          * [Para iniciar na programação](#para-iniciar-na-programação)
          * [Abrindo o <em>console</em> (no codepen.io)](#abrindo-o-console-no-codepenio)
       * [Referências](#referências)
+
 
 # Exercícios
 
