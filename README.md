@@ -1,5 +1,36 @@
 # Exercícios em Javascript (para iniciantes em programação)
 
+exercicios-javascript — é para você que gostaria de aprender programação, não sabe nada ainda e quer iniciar direto na prática utilizando a linguagem JavaScript.
+
+A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
+
+# Índice
+
+   * [Exercícios)](#exercícios)
+      * [Variáveis e Funções](#variáveis-e-funções)
+         * [Exercício 1.1](#exercício-11)
+         * [Exercício 1.2](#exercício-12)
+         * [Exercício 1.3](#exercício-13)
+         * [Exercício 1.4](#exercício-14)
+      * [2. Condicionais (<em>if</em>, <em>else</em>)](#2-condicionais-if-else)
+         * [Exercício 2.1](#exercício-21)
+         * [Exercício 2.2](#exercício-22)
+         * [Exercício 2.3](#exercício-23)
+      * [3. Lógica](#3-lógica)
+         * [Exercício 3.1](#exercício-31)
+         * [Exercício 3.2](#exercício-32)
+         * [Exercício 3.3](#exercício-33)
+      * [4. Loop](#4-loop)
+         * [Exercício 4.1](#exercício-41)
+      * [5. Vetores (array)](#5-vetores-array)
+         * [Exercício 5](#exercício-5)
+      * [Ferramentas](#ferramentas)
+         * [Para iniciar na programação](#para-iniciar-na-programação)
+         * [Abrindo o <em>console</em> (no codepen.io)](#abrindo-o-console-no-codepenio)
+      * [Referências](#referências)
+
+# Exercícios
+
 ## Variáveis e Funções
 
 ### Exercício 1.1
