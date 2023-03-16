@@ -126,8 +126,6 @@ function limitaPosicao (posicao) {
 
 ### Exercício 3.1
 
-Resolver toda [lista de exercícios Módulo 01](https://station.rocketseat.com.br/api/files/1536602858136.pdf) da [Rocketseat](https://rocketseat.com.br).
-
 ### Exercício 3.2
 
 ### Exercício 3.3
