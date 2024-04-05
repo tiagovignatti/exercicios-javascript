@@ -143,8 +143,7 @@ Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o
 
 # Respostas
 
-Por ora, não coloquei nenhuma resposta dos exercícios aqui. Mas ficaria muito grato de receber as respostas (enviadas por email mesmo, ou talvez abrindo uma "issue" no GitHub) e começar a organizar elas por aqui :)
-
+https://github.com/tiagovignatti/exercicios-javascript/issues/2#issue-2208482225
 
 # Outras ferramentas para iniciar na programação
 
