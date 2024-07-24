@@ -126,9 +126,39 @@ function limitaPosicao (posicao) {
 
 ### Exercício 3.1
 
+Faça um programa que leia um número e verifique se ele é par ou ímpar. Exiba uma mensagem indicando o resultado.
+
+Dica - Use o operador de módulo (%) para verificar se um número é divisível por 2.
+
+```javascript
+function verificaParOuImpar(numero) {
+    //código da função
+}
+```
+
 ### Exercício 3.2
 
+Faça um programa que leia três números e exiba o maior entre eles.
+
+Dica - Use uma série de comparações if para verificar qual número é o maior e, em seguida, exiba o resultado.
+
+```javascript
+function encontraMaiorNumero(num1, num2, num3) {
+    //código da função
+}
+```
+
 ### Exercício 3.3
+
+Faça um programa que leia um número e determine se ele é positivo, negativo ou zero.
+
+Dica - Utilize uma série de condições if para verificar a natureza do número.
+
+```javascript
+function verificaNumero(numero) {
+    //código da função
+}
+```
 
 ## 4. Loop
 
@@ -138,7 +168,7 @@ Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qual
 
 ## 5. Vetores (array)
 
-### Exercício 5
+### Exercício 5.1
 Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
 
 # Respostas
@@ -151,11 +181,11 @@ Agradeço @SamuelSilvaB e @madruga0 que já fizeram algumas excelentes contribui
 
 # Outras ferramentas para iniciar na programação
 
-glitch.com
+[Glitch](glitch.com)
  
-rocketseat.com.br
+[Rocketseat](rocketseat.com.br)
 
-[vscode](https://code.visualstudio.com/)
+[VSCode](https://code.visualstudio.com/)
 
 Chrome browser and DevTools
 
